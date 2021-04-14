@@ -1,6 +1,10 @@
+h1{
+    text-align: center;
+}
+
 form{
 
-    background-color: rgb(86, 161, 184);
+    background-color: rgb(56, 189, 138);
     border: 2px;
     width: 300px;
     padding: 150px;
@@ -18,7 +22,7 @@ form{
 }
 
 button :hover{
-    background-color:  rgb(63, 119, 136);
+    background-color:  rgb(56, 189, 138);
     border: 1px;
     border-radius: 4px;
 
